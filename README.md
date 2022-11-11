@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-The website can eb sued by reading the notes contained within the page. By opening the console you can also obtain a suggestion of which topic to start with, which changes each time the page is refreshed.
+The website can be used by reading the notes contained within the page. By opening the console you can also obtain a suggestion of which topic to start with, which changes each time the page is refreshed. 
 
 ## Credits
 
